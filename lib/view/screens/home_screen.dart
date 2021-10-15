@@ -8,7 +8,8 @@ class HomeScreen extends StatelessWidget {
     return Scaffold(
       body: SafeArea(
         child: Column(
-          children: const [
+          children:  [
+            Text('sdkj'),
             Center(
               child: Text('mosxos'),
             ),
